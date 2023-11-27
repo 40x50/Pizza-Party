@@ -13,3 +13,7 @@ Requirements
 ------------------------------------------------------------
 threading,
 requests
+
+**AS OF NOVEMBER 27TH 2023 THIS IS NO LONGER WORKING**
+------------------------------------------------------------
+Feel free to build upon this and make a modern, working version (make sure to mention me in it).
